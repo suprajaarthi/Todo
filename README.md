@@ -1,11 +1,11 @@
 # Todo-App-with-Backend
 Todo App in nodejs connected with mongodb 
 
-Install node.js 
+Install node.js From https://nodejs.org/en/
 
-Install mongodb from : mongodb.com
+Install mongodb from : https://mongodb.com
 
-Install robot3t from robomongo.org 
+Install robot3t from https://robomongo.org 
 
 Create a db connection in localhost:27017
 
