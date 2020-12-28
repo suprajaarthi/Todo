@@ -7,7 +7,7 @@ Install mongodb from : https://mongodb.com
 
 Install robot3t from https://robomongo.org 
 
-Create a db connection in localhost:27017
+Create a db connection in http://localhost:27017
 
 Create a folder 
 
