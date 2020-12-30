@@ -25,7 +25,7 @@ Run npm install -g yarn
 
 Run npm i mongoose --save
 
-Run yard add mongoose
+Run yarn add mongoose
 
 Open : http://localhost:13371/ 
 
