@@ -1,0 +1,23 @@
+{
+  "name": "todo-app-with-backend",
+  "version": "1.0.0",
+  "description": "<img src=\"Todo app.png\">",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suprajaarthi/Todo-App-with-Backend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/suprajaarthi/Todo-App-with-Backend/issues"
+  },
+  "homepage": "https://github.com/suprajaarthi/Todo-App-with-Backend#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.11.18"
+  }
+}
