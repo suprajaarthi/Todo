@@ -1,0 +1,39 @@
+<html>
+    <body class="center">
+
+<div class="navbartop" style="padding: 5px;"> 
+    <h1 class="text-center">
+    TODO <span id="text-todo">APP</span>
+    </h1>
+    <h3 style="color: mediumvioletred;" class="text-center">Get your things done for Real ✅</h3>
+<br>
+</div>
+
+
+<div class="input-group">
+    <input type="text" class="form-control" #itemTitle>
+    <div class="input-group-addon hover-cursor" (click)="onAdd(itemTitle)"> 
+        <i class="fa fa-plus-circle ">
+            
+        </i>
+        </div>
+</div>
+
+<!-- <input type="submit" class="form-control" (click)="onAdd(itemTitle)" /> -->
+<div style="margin: 5px 0px;">
+    <ul class="list-group">
+        <li class="list-group-item" *ngFor="let item of todoListArray ">
+            <span class="hover-cursor" [class.text-success]="item.isChecked" (click)="alertCheck(item.$key,item.isChecked)">
+                <i class="fa fa-lg" [ngClass]="item.isChecked ? 'fa-check-circle-o' : 'fa fa-circle-o'">
+
+                </i>
+            </span>
+            {{item.title}}
+            <span class="hover-cursor text-danger pull-right" (click)="onDelete(item.$key)"> 
+                <i class="fa fa-trash-o fa-lg"></i>
+            </span>
+        </li>
+    </ul>
+</div>
+</body>
+</html>
