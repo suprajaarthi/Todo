@@ -1,5 +1,5 @@
 # Todo
-<img src="todo_angular.jpeg">
+<img src="Screenshot 2021-04-30 at 8.15.13 PM.png">
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.6.
 
