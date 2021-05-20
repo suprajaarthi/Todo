@@ -1,5 +1,5 @@
 # Todo
-<img src="Screenshot 2021-04-30 at 8.15.13 PM.png">
+![1621494811353](https://user-images.githubusercontent.com/51900501/118935308-04e8c380-b969-11eb-9a31-0ea4ea12102b.png)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.6.
 
