@@ -1,6 +1,6 @@
 # Todo-App-with-Backend
 
-😉 Flip the branch to Angular to have a look at Todo App made using Angular framework 
+😉   Flip the branch to Angular to have a look at Todo App made using Angular framework 
 
 <img src="Todo app.png">
 
